@@ -2,7 +2,7 @@ package main
 
 // #cgo LDFLAGS: -lutil
 /*
-#include <pty.h>
+#include <util.h>
 #include <unistd.h>
 #include <termios.h>
 #include <sys/ioctl.h>
